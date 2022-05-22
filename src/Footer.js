@@ -5,7 +5,18 @@ function Footer() {
 		<div>
 			<div className="Footer">
 				{" "}
+				
 				<footer>
+				<p>
+					For code of this app{" "} 
+						<a
+							href="https://github.com/ionstone/youtube-playlist-length"
+							target="blank"
+						>
+							 click here
+						</a>
+					</p>
+				
 					<p>
 						Created by{" "}
 						<a
@@ -15,6 +26,9 @@ function Footer() {
 							Vishesh Yadav
 						</a>
 					</p>
+					
+					
+				
 				</footer>
 			</div>
 		</div>
