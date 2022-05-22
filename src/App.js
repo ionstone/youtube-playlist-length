@@ -1,10 +1,9 @@
 // import Yt from "./yt";
-import "./app.css";
+// import "./app.css";
 
 import Loading from "./Loading";
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import axios from "axios";
-import { render } from "@testing-library/react";
 import Searchbar from "./searchbar";
 import Footer from "./Footer";
 
